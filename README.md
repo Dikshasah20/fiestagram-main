@@ -208,4 +208,4 @@ Developed with ❤️ by Diksha Sah
 2. Paste it directly into your `README.md` file in your repo.  
 3. Save and push to GitHub — it will automatically format beautifully.
 
-Would you like me to include a **preview badge section** (e.g., “Made with React”, “License: MIT”,
+Would you like me to include a **preview badge section** (e.g., “Made with React”, “License: MIT”, “Stars”) at the top too? It can make your README look even more professional.
