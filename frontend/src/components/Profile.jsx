@@ -81,9 +81,9 @@ const Profile = () => {
                 <span className='font-semibold'>{userProfile?.bio || "Bio here"}</span>
                 <Badge className="w-fit rounded-xl bg-gray-100"><AtSign size={13} /> <span className='pl-1'>{userProfile?.username}</span>
                 </Badge>
-                <span>🎉😊🚀Learn code with Chandrashekhar</span>
-                <span>🎉😊🚀Learn code with Chandrashekhar</span>
-                <span>🎉😊🚀Learn code with Chandrashekhar</span>
+                <span>🎉😊🚀Learn code with DikshaSah</span>
+                <span>🎉😊🚀Learn code with DikshaSah</span>
+                <span>🎉😊🚀Learn code with DikshaSah</span>
               </div>
             </div>
           </section>
